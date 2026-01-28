@@ -1,6 +1,13 @@
 ## Hiya !
 "Hi there this is my markdown file" - Mr. Forlenza, 2026
 
+-----------
+
+💼 I am a student living in Brooklyn with an interest of becoming either a filmmaker x game designer, or a business owner. My hobbies consist of dancing, singing, music, playing my Uke, volleyball, reading, writing, typing, and a lot more.
+
+🎯 Fun fact ! : I'm possibly the youngest in the room of those born in 2009.
+
+🗒️ There's definitely more that I can say, however, that's up to you to find out >:)
 <!--
 **AbioticExquisite/AbioticExquisite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
