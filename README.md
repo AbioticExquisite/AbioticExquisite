@@ -3,7 +3,7 @@
 
 -----------
 
-💼 I am a student living in Brooklyn with an interest of becoming either a filmmaker x game designer, or a business owner. My hobbies consist of dancing, singing, music, playing my Uke, volleyball, reading, writing, typing, and a lot more.
+💼 I am a student living in Brooklyn with an interest of becoming either a filmmaker x game designer, or a business owner. My hobbies consist of dancing, singing, music, playing my Uke, crocheting, reading, writing, typing, and a lot more.
 
 🎯 Fun fact ! : I'm possibly the youngest in the room of those born in 2009.
 
